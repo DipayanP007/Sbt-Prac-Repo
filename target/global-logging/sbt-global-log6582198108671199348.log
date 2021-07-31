@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(scala /home/knoldus/IdeaProjects/SBt Project/sbt-prac/target/scala-2.13/sbt-prac_2.13-0.1.jar, None, None)[0m
+[0m[[0m[31merror[0m] [0m[0mExpected ID character[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid command: scala (similar: alias, last, eval)[0m
+[0m[[0m[31merror[0m] [0m[0mExpected project ID[0m
+[0m[[0m[31merror[0m] [0m[0mExpected configuration[0m
+[0m[[0m[31merror[0m] [0m[0mExpected ':'[0m
+[0m[[0m[31merror[0m] [0m[0mExpected key[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid key: scala (similar: scalaHome, scalaSource, clean)[0m
+[0m[[0m[31merror[0m] [0m[0mscala /home/knoldus/IdeaProjects/SBt Project/sbt-prac/target/scala-2.13/sbt-prac_2.13-0.1.jar[0m
+[0m[[0m[31merror[0m] [0m[0m     ^[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m
